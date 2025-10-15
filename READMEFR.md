@@ -56,7 +56,7 @@
 
   <h2>⚡ Ce que je fais</h2>
       <!-- Service principal -->
-      <p><strong>🎯 Développement Full Stack JavaScript</strong><br>       
+      <p><strong>🎯 Développement FullStack</strong><br>       
       Je conçois des applications web et mobiles performantes, du front au back, en m'appuyant sur des technologies modernes et des pratiques de développement rigoureuses.</p>
      
  <!-- Liste des services spécifiques -->
@@ -264,3 +264,4 @@ console.log(`${developer.name} is ready to code! 🐺`);</code></pre>
 <a href="arriotti-julien67@hotmail.fr" target="blank">arriotti-julien67@hotmail.fr</a>
 
 <div align=""></div>
+
