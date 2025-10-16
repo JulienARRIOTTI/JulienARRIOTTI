@@ -253,7 +253,7 @@ console.log(`${developer.name} is ready to code! 🐺`);</code></pre>
 
 <p style="text-align: center;">
 <img src="./img/Discord.svg" alt="logo html5" height="40">
-<a href="www.linkedin.com/in/julien-arriotti-75b722375" target="blank"><img src="./img/LinkedIn.svg" alt="logo html5" height="40"></a>
+<a href="https://www.linkedin.com/in/julien-arriotti-75b722375/" target="blank"><img src="./img/LinkedIn.svg" alt="logo html5" height="40"></a>
 <a href="https://facebook.com/" target="blank"><img src="./img/facebook.svg" alt="logo html5" height="40"></a>
 <a href="https://github.com/JulienARRIOTTI" target="blank"><img src="./img/Github-Dark.svg" alt="logo html5" height="40"></a>  <img src="./illustration/mickeal ange.png" alt="Illustration Michel-Ange" height="60">
 </p>
@@ -264,4 +264,5 @@ console.log(`${developer.name} is ready to code! 🐺`);</code></pre>
 <a href="arriotti-julien67@hotmail.fr" target="blank">arriotti-julien67@hotmail.fr</a>
 
 <div align=""></div>
+
 
