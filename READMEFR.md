@@ -223,8 +223,12 @@ console.log(`${developer.name} is ready to code! 🐺`);</code></pre>
   <tr>
     <td valign="middle" width="50%">
       <h2>Meilleurs projets</h2>
-      <p>
-        Je n'ai actuellement aucune activité enregistrée sur GitHub, mais j'ai hâte de m'engager davantage avec la communauté !
+      <p>JDR Random
+        <a href="https://github.com/JulienARRIOTTI/JdrRandom.git" target="_blank">
+      <img src="./bannierJDR.png" 
+           width="40%" 
+           style="max-width: 10px; border-radius: 5px;" 
+           alt="Baniere du jeu de rôle">
       </p>
     </td>
     <td valign="middle" width="40%" align="center">
@@ -238,8 +242,12 @@ console.log(`${developer.name} is ready to code! 🐺`);</code></pre>
     </td>
     <td valign="middle" width="50%">
       <h2>Activité récente</h2>
-      <p>
-        Je n'ai actuellement aucun dépôt public présenté ici, mais je travaille à la constitution de mon portfolio ! Restez connectés pour découvrir de nouveaux projets passionnants.
+     <p>JDR Random
+        <a href="https://github.com/JulienARRIOTTI/JdrRandom.git" target="_blank">
+      <img src="./bannierJDR.png" 
+           width="40%" 
+           style="max-width: 10px; border-radius: 5px;" 
+           alt="Baniere du jeu de rôle">
       </p>
     </td>
   </tr>
@@ -264,5 +272,6 @@ console.log(`${developer.name} is ready to code! 🐺`);</code></pre>
 <a href="arriotti-julien67@hotmail.fr" target="blank">arriotti-julien67@hotmail.fr</a>
 
 <div align=""></div>
+
 
 
