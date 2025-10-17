@@ -222,9 +222,13 @@ console.log(${developer.name} is ready to code! 🐺);</code></pre>
  <table width="100%">
   <tr>
     <td valign="middle" width="50%">
-      <h2>Best projects</h2>
-      <p>
-        I currently have no activity recorded on GitHub, but I look forward to getting more involved with the community!
+      <h2>Meilleurs projets</h2>
+      <p>JDR Random
+        <a href="https://github.com/JulienARRIOTTI/JdrRandom.git" target="_blank">
+      <img src="./bannierJDR.png" 
+           width="40%" 
+           style="max-width: 10px; border-radius: 5px;" 
+           alt="Baniere du jeu de rôle">
       </p>
     </td>
     <td valign="middle" width="40%" align="center">
@@ -237,9 +241,13 @@ console.log(${developer.name} is ready to code! 🐺);</code></pre>
       <img src="./illustration/Miams.png" width="100%" style="max-width: 250px;" alt="Loup qui mange">
     </td>
     <td valign="middle" width="50%">
-      <h2>Recent activity</h2>
-      <p>
-        I currently have no public repositories listed here, but I'm working on building my portfolio! Stay tuned for exciting new projects.
+      <h2>Activité récente</h2>
+     <p>JDR Random
+        <a href="https://github.com/JulienARRIOTTI/JdrRandom.git" target="_blank">
+      <img src="./bannierJDR.png" 
+           width="40%" 
+           style="max-width: 10px; border-radius: 5px;" 
+           alt="Baniere du jeu de rôle">
       </p>
     </td>
   </tr>
@@ -264,3 +272,4 @@ console.log(${developer.name} is ready to code! 🐺);</code></pre>
 <a href="arriotti-julien67@hotmail.fr" target="blank">arriotti-julien67@hotmail.fr</a>
 
 <div align=""></div>
+
