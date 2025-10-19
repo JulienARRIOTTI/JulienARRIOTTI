@@ -10,7 +10,7 @@
 #
 [anglais](README.md) | [francais](READMEFR.md)
 
-## ![👋](./img/HelloAnimed.svg)Hi! 
+## ![👋](./img/HelloAnimed.svg)Salut! 
 
 <div align="center">
 <table width="100%">
@@ -23,19 +23,21 @@
           src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
           width="45" 
           alt="Blob animé avec lunettes de soleil"> -->
-        My name is <strong>ARRIOTTI Julien</strong> 
+        Moi, c’est <strong>ARRIOTTI Julien</strong> 
       </h1>
       <br>
-    <h2>🚀FullStack Web & Mobile Developer Junior
+    <h2>🚀Développeur Junior Web & Mobile FullStack 
     </h2>
       <p>
-      💡 Trained at O'clock with a professional qualification in Web & Mobile Web Development. Curious, thorough and focused on finding solutions, I enjoy learning and progressing every day.
+      💡 Formé chez O'clock au titre professionnel de Développeur Web & Web Mobile.
+      Curieux, rigoureux et tourné vers la recherche de solutions, je prends plaisir à apprendre et à progresser chaque jour.
       </p>
       <h2>
-         About me 
+         A propos de moi 
       </h2>
       <p>
-        🛠️I tried my hand at several different jobs before finding what really motivates me. Thanks to my friends and family, I discovered web development, a field that fascinates me and encourages me to always push myself further. So I decided to change careers and enrol in a training programme at O'clock. Curious, rigorous and solution-oriented, I enjoy learning and progressing every day.
+        🛠️J’ai exercé plusieurs métiers avant de trouver ce qui me motive vraiment. Grâce à mon entourage, j’ai découvert le développement web, un domaine qui me passionne et m’encourage à aller toujours plus loin.
+        J’ai donc décidé de me reconvertir et de suivre une formation chez O’clock. Curieux, rigoureux et tourné vers la recherche de solutions, je prends plaisir à apprendre et à progresser chaque jour.
       </p>
         <td width="40%" valign="top" align="right" style="padding: 20px;">
       <img src="./illustration/work.png"alt="work" width="100%"style="max-width: 350px;">
@@ -52,22 +54,20 @@
      <br>
      <br> 
 
-  <h2>⚡What I do</h2>
+  <h2>⚡ Ce que je fais</h2>
       <!-- Service principal -->
-      <p><strong>🎯 FullStack Development </strong><br>       
-      I design high-performance web and mobile applications, from front to back, using modern technologies and rigorous development practices.</p>
+      <p><strong>🎯 Développement FullStack</strong><br>       
+      Je conçois des applications web et mobiles performantes, du front au back, en m'appuyant sur des technologies modernes et des pratiques de développement rigoureuses.</p>
      
  <!-- Liste des services spécifiques -->
   
   <br>
-  <h2> 💻 My goals :</h2>
+  <h2> 💻 Mes objectifs :</h2>
 
-<li>✨  Develop innovative Full Stack projects</li>
-<li>🧩  Deepen my knowledge of TypeScript and modern architectures</li>
-<li>🤝  Contribute to open source projects</li>
-<li>📚  Share my knowledge and learn from the community
-illustration of me fighting software 
-html5 logo html5 logo pocketbase logo</li> 
+<li>✨ Développer des projets Full Stack innovants</li>
+<li>🧩 Approfondir TypeScript et les architectures modernes</li>
+<li>🤝 Contribuer à des projets open source</li>
+<li>📚 Partager mes connaissances et apprendre de la communauté</li> 
 </td>
   <td valign="top" width="30%" align="center">
       <img src="./illustration/fight.png" width="100%" style="max-width: 250px;" alt="illustration de moi qui combat les logiciels ">
@@ -95,33 +95,33 @@ html5 logo html5 logo pocketbase logo</li>
     </td>
     <!-- COLONNE DROITE : Stack technique complète -->
     <td valign="top" width="35%">
-         <h2>🛠️ Technical Stack</h2>
+         <h2>🛠️ Stack Technique</h2>
       <!-- Frontend technologies -->
       <p><strong>🎨 Frontend</strong></p>
       <ul>
         <li>HTML5 | CSS3 </li>
         <li>JavaScript | Svelte</li>
-        <li>Modern and responsive interfaces</li>
+        <li>Interfaces modernes et responsives</li>
       </ul>
        <!-- Backend -->
       <p><strong>⚙️ Backend</strong></p>
       <ul>
         <li>Node.js, Express</li>
         <li>PostgreSQL, Sequelize</li>
-        <li>High-performance & secure APIs</li>
+        <li>API performantes & sécurisées</li>
       </ul>
        <!-- Mobile & Desktop -->
       <p><strong>📱 Mobile & Desktop </strong></p>
       <ul>
-        <li> Hybrid applications and custom tools</li>
+        <li> Applications hybrides et outils sur mesure</li>
       </ul>
        <!-- Design -->
        <p><strong>🎨 Design</strong></p>
       <ul>
-        <li> Figma | responsive and accessible interfaces</li>
+        <li> Figma | interfaces responsives et accessibles</li>
       </ul>
       <!-- DevOps et outils -->
-      <p><strong>🧰 Tools & DevOps</strong></p>
+      <p><strong>🧰 Outils & DevOps</strong></p>
       <ul>
         <li>Git | NPM | PocketBase | VSCode | Postman</li>
       </ul>
@@ -148,28 +148,28 @@ html5 logo html5 logo pocketbase logo</li>
 <table width="100%" align="center">
   <tr>    
     <td valign="top" width="40%" align="center" style="padding: 10px;">
-      <h2 align="center">🎯Currently</h2>
+      <h2 align="center">🎯 Actuellement</h2>
       <!-- Image mascotte thématique -->
       <img src="./illustration/heros.png" width="100%" style="max-width: 250px; margin-bottom: 15px;" alt="Loup chevalier noir en action">
     
   <p align="left">
-      <p>🚀 Evolving as a FullStack Developer.
+      <p>🚀 En pleine évolution en tant que Développeur FullStack.
       <br>
-      I use my skills to build high-performance applications and explore modern technologies.
+      Je mets à profit mes compétences pour construire des applications performantes et explorer les technologies modernes.
     </p>
       </p>
    
    <ul align="left">
-        <li>✨ <strong>Full Stack JavaScript</strong> projects (Svelte / Node / PostgreSQL)</li>
-        <li>🧩 Exploration of <strong>TypeScript avancé</strong> & <strong>microservices architectures</strong></li>
-        <li>🤝 <strong>open source</strong> collaborations and knowledge sharing</li>
-        <li>💬 Consulting & mentoring on<strong>Svelte, Node.js, PostgreSQL</strong></li>
+        <li>✨ Projets <strong>Full Stack JavaScript</strong> (Svelte / Node / PostgreSQL)</li>
+        <li>🧩 Exploration de <strong>TypeScript avancé</strong> & des <strong>architectures microservices</strong></li>
+        <li>🤝 Collaborations <strong>open source</strong> et partage de savoir</li>
+        <li>💬 Conseil & mentorat sur <strong>Svelte, Node.js, PostgreSQL</strong></li>
       </ul>
       <br>
    </td>
 
    <td valign="top" width="60%">
-      <h2 align="center">📈 GitHub statistics</h2>
+      <h2 align="center">📈 Statistiques GitHub</h2>
       <!-- 
         STATS PRINCIPALES
         Via github-readme-stats par anuraghazra
@@ -207,19 +207,19 @@ html5 logo html5 logo pocketbase logo</li>
 
 ---
 
-<h2>💡My philosophy</h2>
+<h2>💡Ma philosophie</h2>
       <pre><code class="language-javascript">const developer = {
-    name: ‘Julien Arriotti’,
-  mindset: ‘Learn by doing 🛠️’,
-  approach: ‘Readable & maintainable code > Clever code’,
-  passion: ‘Creating useful and effective solutions’,
-  values: [‘Curiosity’, ‘Rigour’, ‘Collaboration’],
-  goal: ‘Progress every day and create value 🚀’
+  name: "Julien Arriotti",
+  mindset: "Apprendre en faisant 🛠️",
+  approach: "Code lisible & maintenable > Code clever",
+  passion: "Créer des solutions utiles et efficaces",
+  values: ["Curiosité", "Rigueur", "Collaboration"],
+  goal: "Progresser chaque jour et créer de la valeur 🚀"
 };
 
-console.log(${developer.name} is ready to code! 🐺);</code></pre>
+console.log(`${developer.name} is ready to code! 🐺`);</code></pre>
     
-  <table width="100%">
+<table width="100%">
   <tr>
     <td valign="middle" width="50%">
       <h2>Meilleurs projets</h2>
@@ -283,11 +283,11 @@ console.log(${developer.name} is ready to code! 🐺);</code></pre>
 
 
 ---
-## Social Networks
+## Réseaux Sociaux
 
 <p style="text-align: center;">
 <img src="./img/Discord.svg" alt="logo html5" height="40">
-<a href="www.linkedin.com/in/julien-arriotti-75b722375" target="blank"><img src="./img/LinkedIn.svg" alt="logo html5" height="40"></a>
+<a href="https://www.linkedin.com/in/julien-arriotti-75b722375/" target="blank"><img src="./img/LinkedIn.svg" alt="logo html5" height="40"></a>
 <a href="https://facebook.com/" target="blank"><img src="./img/facebook.svg" alt="logo html5" height="40"></a>
 <a href="https://github.com/JulienARRIOTTI" target="blank"><img src="./img/Github-Dark.svg" alt="logo html5" height="40"></a>  <img src="./illustration/mickeal ange.png" alt="Illustration Michel-Ange" height="60">
 </p>
@@ -298,3 +298,5 @@ console.log(${developer.name} is ready to code! 🐺);</code></pre>
 <a href="arriotti-julien67@hotmail.fr" target="blank">arriotti-julien67@hotmail.fr</a>
 
 <div align=""></div>
+
+
