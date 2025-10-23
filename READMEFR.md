@@ -91,6 +91,7 @@
 <p><img src="./img/Figma-Dark.svg" alt="logo postgresql" height="40"> 
    <img src="./img/Npm-Dark.svg" alt="logo html5" height="40">
    <img src="./img/Git.svg" alt="logo html5" height="40">
+   <img src="./img/Docker.svg" alt="logo html5" height="40">
 </p>
     </td>
     <!-- COLONNE DROITE : Stack technique complète -->
@@ -123,7 +124,7 @@
       <!-- DevOps et outils -->
       <p><strong>🧰 Outils & DevOps</strong></p>
       <ul>
-        <li>Git | NPM | PocketBase | VSCode | Postman</li>
+        <li>Git | NPM | PocketBase | VSCode | Postman | Docker</li>
       </ul>
     </td>
   </tr>
@@ -219,28 +220,28 @@
 
 console.log(`${developer.name} is ready to code! 🐺`);</code></pre>
     
-<table width="100%">
+ <table width="100%">
   <tr>
-    <td valign="middle" width="50%">
-      <h2>Meilleurs projets</h2>
+    <td valign="middle" width="20%">
+      <h2>Meilleurs Projets:</h2>
       <p>
-        <a href="https://github.com/JulienARRIOTTI/JdrRandom.git" target="_blank">
-          JDR Random
+        <a href="https://github.com/JulienARRIOTTI/O-caf.git" target="_blank">
+          O'Café
           <br>
-          <img src="./img projet/bannierJDR.png" 
+          <img src="./img projet/Ocafe.png" 
                width="40%" 
-               style="max-width: 60px; border-radius: 5px;" 
-               alt="Baniere du jeu de rôle">
+               style="max-width: 20px; border-radius: 5px;" 
+               alt="Logo O'Coffee">
         </a>
       </p>
       <p>
-        <a href="https://github.com/JulienARRIOTTI/Page-Cosplay.git" target="_blank">
-          Page Cosplay
+        <a href="https://github.com/JulienARRIOTTI/O-chat.git" target="_blank">
+          O'Chat IA
           <br>
-          <img src="./img projet/banniereCosplay.jpg" 
+          <img src="./img projet/Ochat.png" 
                width="40%" 
-               style="max-width: 60px; border-radius: 5px;" 
-               alt="Baniere du cosplay">
+               style="max-width: 20px; border-radius: 5px;" 
+               alt="Interface O'chat">
         </a>
       </p>
     </td>
@@ -298,5 +299,6 @@ console.log(`${developer.name} is ready to code! 🐺`);</code></pre>
 <a href="arriotti-julien67@hotmail.fr" target="blank">arriotti-julien67@hotmail.fr</a>
 
 <div align=""></div>
+
 
 
