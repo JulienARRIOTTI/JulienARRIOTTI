@@ -225,7 +225,7 @@ console.log(`${developer.name} is ready to code! 🐺`);</code></pre>
     <td valign="middle" width="20%">
       <h2>Meilleurs Projets:</h2>
       <p>
-        <a href="https://github.com/JulienARRIOTTI/O-caf.git" target="_blank">
+        <a href="https://github.com/JulienARRIOTTI/O-Coffee.git" target="_blank">
           O'Café
           <br>
           <img src="./img projet/Ocafe.png" 
@@ -299,6 +299,7 @@ console.log(`${developer.name} is ready to code! 🐺`);</code></pre>
 <a href="arriotti-julien67@hotmail.fr" target="blank">arriotti-julien67@hotmail.fr</a>
 
 <div align=""></div>
+
 
 
 
